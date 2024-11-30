@@ -1,0 +1,17 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: al2-19lx0
+  url: https://universe.roboflow.com/bh-ejmdz/al2-19lx0/dataset/2
+  version: 2
+  workspace: bh-ejmdz
+test: /kaggle/working/al2-2/test
+train: /kaggle/working/al2-2/train
+val: /kaggle/working/al2-2/valid
